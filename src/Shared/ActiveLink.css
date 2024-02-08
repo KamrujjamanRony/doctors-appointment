@@ -1,0 +1,17 @@
+.active {
+    border-bottom: 2px solid white;
+    border-radius: 0;
+    background-color: transparent !important;
+    color: white;
+}
+.unactive {
+    background-color: transparent !important;
+    color: white;
+}
+.active:visited {
+    color: white !important;
+}
+.unactive:visited {
+    color: white !important;
+}
+
