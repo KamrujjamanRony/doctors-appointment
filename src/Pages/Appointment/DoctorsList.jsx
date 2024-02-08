@@ -11,7 +11,7 @@ export default function DoctorsList() {
       name: "Steve Jobs",
       department: "cardiology",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1704797490.png"
     },
     {
@@ -19,7 +19,7 @@ export default function DoctorsList() {
       name: "Bill Gates",
       department: "dental",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1521004739Dr_Sanawar_(6).JPG"
     },
     {
@@ -27,7 +27,7 @@ export default function DoctorsList() {
       name: "Elon Mask",
       department: "surgery",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1543208339.jpg"
     },
     {
@@ -35,7 +35,7 @@ export default function DoctorsList() {
       name: "Lerry Page",
       department: "microbiology",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1674367360.png"
     },
     {
@@ -43,7 +43,7 @@ export default function DoctorsList() {
       name: "Mukesh Ambani",
       department: "neuromedicine",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1674367271.png"
     },
     {
@@ -51,7 +51,7 @@ export default function DoctorsList() {
       name: "Ratan Tata",
       department: "medicine",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1522313708Dr_Faruque_(4).JPG"
     },
     {
@@ -59,7 +59,7 @@ export default function DoctorsList() {
       name: "Jhankar Mahbub",
       department: "dental",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1699177751.png"
     },
     {
@@ -67,7 +67,7 @@ export default function DoctorsList() {
       name: "Sumit Saha",
       department: "cardiology",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1680586547.png"
     },
     {
@@ -75,7 +75,7 @@ export default function DoctorsList() {
       name: "Steve Jobs",
       department: "dental",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1704797490.png"
     },
     {
@@ -83,7 +83,7 @@ export default function DoctorsList() {
       name: "Bill Gates",
       department: "cardiology",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1521004739Dr_Sanawar_(6).JPG"
     },
     {
@@ -91,7 +91,7 @@ export default function DoctorsList() {
       name: "Elon Mask",
       department: "microbiology",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1543208339.jpg"
     },
     {
@@ -99,7 +99,7 @@ export default function DoctorsList() {
       name: "Lerry Page",
       department: "surgery",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1674367360.png"
     },
     {
@@ -107,7 +107,7 @@ export default function DoctorsList() {
       name: "Mukesh Ambani",
       department: "medicine",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1674367271.png"
     },
     {
@@ -115,7 +115,7 @@ export default function DoctorsList() {
       name: "Ratan Tata",
       department: "neuromedicine",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1522313708Dr_Faruque_(4).JPG"
     },
     {
@@ -123,7 +123,7 @@ export default function DoctorsList() {
       name: "Jhankar Mahbub",
       department: "medicine",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1699177751.png"
     },
     {
@@ -131,7 +131,7 @@ export default function DoctorsList() {
       name: "Sumit Saha",
       department: "neuromedicine",
       degree: "MBBS MS",
-      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
+      description: "MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.MBBS, DTCD (Chest), MD (Cardiology) Fellowship Training in Interventional Cardiology from Sri Lanka, Japan and Korea.",
       img: "https://www.squarehospital.com/storage/images/1680586547.png"
     }
   ];
