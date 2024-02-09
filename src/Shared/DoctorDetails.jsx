@@ -1,4 +1,4 @@
-export default function DoctorDetails({ setShowModal, doctor }) {
+export default function DoctorDetails({ setShowModal, doctor, handleClick }) {
   return (
     <div className="fixed top-0 left-0 w-screen h-screen z-50 bg-black/60 backdrop-blur-sm flex justify-center items-center">
       <div className="bg-[#191D26] p-9 max-md:px-4 lg:my-20 lg:p-11 text-white rounded-xl border border-[#FEFBFB]/[36%] max-w-[740px] w-full max-h-[80vh] overflow-y-auto">
@@ -25,6 +25,7 @@ export default function DoctorDetails({ setShowModal, doctor }) {
         <div className="mt-16 flex justify-center items-center gap-5 lg:mt-20">
           <button
             type="submit"
+            onClick={handleClick}
             className="rounded bg-primary px-4 py-2 text-white transition-all hover:opacity-80"
           >
             Appointment

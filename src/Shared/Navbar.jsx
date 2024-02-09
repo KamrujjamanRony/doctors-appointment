@@ -64,7 +64,11 @@ export default function Navbar() {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn btn-secondary text-white">Login</a>
+        <button
+            className="rounded bg-red-600 px-4 py-2 text-white transition-all hover:opacity-80"
+          >
+            Log Out
+          </button>
         </div>
       </div>
     </div>

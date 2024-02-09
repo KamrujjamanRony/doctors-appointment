@@ -1,11 +1,18 @@
 import { useState } from "react";
 import DoctorDetails from "../../Shared/DoctorDetails";
+import Appointment from "../../Shared/Appointment";
 
 export default function DoctorCard({ doctor }) {
   const [showModal, setShowModal] = useState(false);
+  const [showAppointment, setShowAppointment] = useState(false);
+  function handleClick() {
+    setShowAppointment(true);
+    setShowModal(false);
+  }
   return (
     <>
-      {showModal && <DoctorDetails setShowModal={setShowModal} doctor={doctor} />}
+      {showModal && <DoctorDetails setShowModal={setShowModal} doctor={doctor} handleClick={handleClick} />}
+      {showAppointment && <Appointment setShowAppointment={setShowAppointment} doctor={doctor} />}
       <div className="card lg:card-side bg-base-100 shadow-xl">
         <figure>
           <img
@@ -23,7 +30,7 @@ export default function DoctorCard({ doctor }) {
             <button onClick={()=> setShowModal(true)} className="btn btn-outline btn-primary hover:!text-white">
               Doctor Details
             </button>
-            <button className="btn btn-primary text-white">Appointment</button>
+            <button onClick={handleClick} className="btn btn-primary text-white">Appointment</button>
           </div>
         </div>
       </div>
