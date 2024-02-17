@@ -42,6 +42,11 @@ export default function Navbar() {
                   </Link>
                 </li>
                 <li>
+                  <Link to="/doctors" onClick={closeDropdown}>
+                    Doctors
+                  </Link>
+                </li>
+                <li>
                   <Link to="/appointment" onClick={closeDropdown}>
                     Appointment
                   </Link>
@@ -57,6 +62,9 @@ export default function Navbar() {
           <ul className="menu menu-horizontal px-1 text-xl gap-4">
             <li>
               <ActiveLink to="/">Home</ActiveLink>
+            </li>
+            <li>
+              <ActiveLink to="/doctors">Doctors</ActiveLink>
             </li>
             <li>
               <ActiveLink to="/appointment">Appointment</ActiveLink>

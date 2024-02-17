@@ -7,6 +7,7 @@ import ErrorPage from './Shared/ErrorPage.jsx';
 import Home from './Pages/Home/Home.jsx';
 import Department from './Pages/Appointment/Department.jsx';
 import DoctorsList from './Pages/Appointment/DoctorsList.jsx';
+import AllDoctors from './Pages/AllDoctors/AllDoctors.jsx';
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
       {
         path: "",
         element: <Home />,
+      },
+      {
+        path: "doctors",
+        element: <AllDoctors />,
       },
       {
         path: "appointment",
